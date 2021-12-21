@@ -73,8 +73,26 @@ Software development, Machine learning & AI engineering
 
 ## Skills and Tools
 
-| Context              | Skills                                                                                                                                                                                                             | Tools                                                                                                                                                                                                               |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Data Science         | Machine Learning <ul><li>Random Forest</li><li>XGBoost</li><li>KNN</li><li>Ridge Regression</li><li>...</li></ul> Deep Learning <ul><li>Feed-forward NN</li><li>Convolutional NN</li><li>GAN</li><li>...</li></ul> | Python <ul><li>Pandas</li><li>Scikit</li><li>Tensorflow</li><li>Keras</li><li>NLTK</li><li>Pyspark</li></ul>                                                                                                        |
-| Software Development | Object-Oriented Programming <br> Functional Programming <br> Algorithm Optimisation <br> SOLID principles <br> Design Patterns <br> Microservices <br> Web                                                         | Java <ul><li>Spring</li><li>Thymeleaf</li><li>Java EE</li></ul> Python <ul><li>Flask</li></ul> Javascript <ul><li>Typescript</li><li>NestJS</li><li>NextJS</li></ul> C# <ul><li>ASP.NET MVC</li><li>Razor</li></ul> |
-| Testing              | Unit Testing <br> Integration Testing                                                                                                                                                                              | Junit + Mockito (Java)<br> unittest (Python) <br> SonarQube                                                                                                                                                         |
+| Context              | Skills                      |                      | Tools      |             |
+| -------------------- | --------------------------- | -------------------- | ---------- | ----------- |
+| Data Science         | Machine Learning            | Random Forest        | Python     | Pandas      |
+|                      |                             | XGBoost              |            | Scikit      |
+|                      |                             | KNN                  |            | Tensorflow  |
+|                      |                             | Ridge Regression     |            | Keras       |
+|                      | Deep Learning               | Feed-forward NN      |            | NLTK        |
+|                      |                             | Convolutional NN     |            | Pyspark     |
+|                      |                             | GAN                  |            |             |
+|                      | Classical AI                | Contraint Processing |            |             |
+|                      |                             | Search Algorithms    |            |             |
+| Software Development | Object-Oriented Programming | SOLID principles     | Java       | Java EE     |
+|                      |                             | Design Patterns      |            | Spring      |
+|                      | Functional Programming      |                      |            | Thymeleaf   |
+|                      | Domain Driven Design        | Microservices        | Python     | Flask       |
+|                      |                             | Message Queues       |            |             |
+|                      | Algorithm Optimisation      |                      | Javascript | Typescript  |
+|                      |                             |                      |            | NestJS      |
+|                      |                             |                      |            | NextJS      |
+|                      |                             |                      | C#         | ASP.NET MVC |
+|                      |                             |                      |            | Razor       |
+|                      |                             |                      | Prolog     |             |
+|                      |                             |                      | Haskell    |             |
