@@ -17,7 +17,7 @@ Working as a Data Science and AI Consultant at Arinti
 
 ### Specialized in
 
-Software development, Machine learning & AI engineering
+Machine learning & AI engineering, Software development
 
 ## Education
 
@@ -71,7 +71,7 @@ Software development, Machine learning & AI engineering
 
 - Fullstack Web Development
 
-## Skills
+## Skills and Knowledge
 
 ### Data Science
 
@@ -105,6 +105,13 @@ Unit Testing, Integration Testing, End-to-end Testing, ...
 
 ### Project
 
+agile stuff
+
+## Tools and Technologies
+
+python enzo
+
+<!--
             |         | Python     | Pandas      |
 
 | | | | | Scikit |
@@ -125,4 +132,4 @@ Unit Testing, Integration Testing, End-to-end Testing, ...
 | | | | C# | ASP.NET MVC |
 | | | | | Razor |
 | | | | Prolog | |
-| | | | Haskell | |
+| | | | Haskell | | -->
