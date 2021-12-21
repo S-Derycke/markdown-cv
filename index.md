@@ -5,7 +5,7 @@ title: Siemen Derycke's CV
 
 # Siemen Derycke
 
-Software Developer / ML Engineer
+ML Engineer / Software Developer
 
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/siemen-derycke/">linkedin/siemen-derycke</a>
