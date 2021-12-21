@@ -1,91 +1,74 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Siemen Derycke's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Siemen Derycke
+
+Software Developer / ML Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.linkedin.com/in/siemen-derycke/">linkedin/siemen-derycke</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Working as a Data Science and AI Consultant at Arinti
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Software development, Machine learning & AI engineering
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017 - 2019`
+**KU Leuven**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Master's degree - Applied Computer Science: Artificial Intelligence - _Cum Laude_
 
-- Sizar
+`2014 - 2017`
+**VIVES**
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Professional Bachelor's degree - Applied Computer Science: Application Development and Gamification - _Magna Cum Laude_
 
-- Fellow
+`2013 - 2014`
+**KU Leuven**
 
+- Academic Bachelor's degree - Computer Science
 
+## Certifications
 
-## Awards
+`May 2021`
+[Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/74e6464a-f88b-49eb-a1a6-dd607de1387b)
 
-`2012`
-President, *Royal Society*, London, UK
+`April 2021`
+[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/828e60c1-4d97-425e-b8d3-100a515d53d3)
 
-Associate, *French Academy of Science*, Paris, France
+## Experience
 
+`2021 - present`
+**Arinti** Data Scientist
 
+- Data Science / Machine Learning Consultancy
+- Independant Project Planning / Problem Solving
+- Internal Project Scrum Master
 
-## Publications
+`2019 - 2021`
+**jstack** Machine Learning Engineer / Backend Developer
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Backend Web Development Consultancy
+- Distributed Systems / Microservice Development Consultancy
+- Machine Learning Consultancy
+- Project Planning
 
-### Journals
+`2017`
+**PegusApps** Fullstack Software Developer Job Student + Intern
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- Fullstack Web Development
 
-`1669`
-Lectiones opticæ.
+`2016 - 2017`
+**BookU** Fullstack Software Developer
 
-etc. etc. etc.
+- Fullstack Web Development
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+## Skills and Tech
