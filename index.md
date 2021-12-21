@@ -71,28 +71,58 @@ Software development, Machine learning & AI engineering
 
 - Fullstack Web Development
 
-## Skills and Tools
+## Skills
 
-| Context              | Skills                      |                      | Tools      |             |
-| -------------------- | --------------------------- | -------------------- | ---------- | ----------- |
-| Data Science         | Machine Learning            | Random Forest        | Python     | Pandas      |
-|                      |                             | XGBoost              |            | Scikit      |
-|                      |                             | KNN                  |            | Tensorflow  |
-|                      |                             | Ridge Regression     |            | Keras       |
-|                      | Deep Learning               | Feed-forward NN      |            | NLTK        |
-|                      |                             | Convolutional NN     |            | Pyspark     |
-|                      |                             | GAN                  |            |             |
-|                      | Classical AI                | Contraint Processing |            |             |
-|                      |                             | Search Algorithms    |            |             |
-| Software Development | Object-Oriented Programming | SOLID principles     | Java       | Java EE     |
-|                      |                             | Design Patterns      |            | Spring      |
-|                      | Functional Programming      |                      |            | Thymeleaf   |
-|                      | Domain Driven Design        | Microservices        | Python     | Flask       |
-|                      |                             | Message Queues       |            |             |
-|                      | Algorithm Optimisation      |                      | Javascript | Typescript  |
-|                      |                             |                      |            | NestJS      |
-|                      |                             |                      |            | NextJS      |
-|                      |                             |                      | C#         | ASP.NET MVC |
-|                      |                             |                      |            | Razor       |
-|                      |                             |                      | Prolog     |             |
-|                      |                             |                      | Haskell    |             |
+### Data Science
+
+**Machine Learning**
+
+Random Forest, XGBoost, KNN, Ridge Regression, ...
+
+**Deep Learning**
+
+Feed-forward NN, Convolutional NN, GAN, ...
+
+**Classical AI**
+
+Contraint Processing, Search Algorithms, ...
+
+### Software Development
+
+**Object-Oriented Programming**
+
+SOLID principles, Design Patterns, ...
+
+**Domain Driven Design**
+
+Microservices, Message Queues, ...
+
+**Algorithm Optimisation**
+
+**Testing**
+
+Unit Testing, Integration Testing, End-to-end Testing, ...
+
+### Project
+
+            |         | Python     | Pandas      |
+
+| | | | | Scikit |
+| | | | | Tensorflow |
+| | | | | Keras |
+| | Deep Learning | | | NLTK |
+| | | | | Pyspark |
+| | | | | |
+| | Classical AI | | | |
+| Software Development | Object-Oriented Programming | | Java | Java EE |
+| | | | | Spring |
+| | Functional Programming | | | Thymeleaf |
+| | | | Python | Flask |
+| | | | | |
+| | Algorithm Optimisation | | Javascript | Typescript |
+| | | | | NestJS |
+| | | | | NextJS |
+| | | | C# | ASP.NET MVC |
+| | | | | Razor |
+| | | | Prolog | |
+| | | | Haskell | |
