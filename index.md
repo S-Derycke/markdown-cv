@@ -79,7 +79,7 @@ Machine learning & AI engineering, Software development
 
 **Parcel Sorting Automation**
 
-Designed and setup Computer Vision solution (using Azure services) to automate the parcel sorting process for the Latvian post.
+Designed and setup Computer Vision solution (using Azure services) to automate the parcel sorting process for the Latvian postal service.
 
 **Hybrid Recommender Engine**
 
@@ -95,9 +95,11 @@ Helped design and implement microservice and messaging flow / architecture.
 
 Ensured backwards compatibility and integration with legacy system during phase-out period.
 
-**Timesheet Correction Algorithm**
+**Master's Thesis - Reconstructing Natural Speech Features from EEG Data using Convolutional Neural Networks**
 
-Designed and implemented a timesheet correction feature for a mobile app, using business logic and constraint processing techniques.
+Designed, trained and evaluated a convolutional neural network that reconstructs the speech envelope. The model significantly outperformed the ridge regression based model that was in use at the Gasthuisberg hospital at the time.
+
+This project was in collaboration with the research group of declarative languages and AI at computer science department of KU Leuven (DTAI) and the experimental oto-rino-larygnology research group at the neurosciences department of UZ Leuven (ExpORL).
 
 ## Skills and Knowledge
 
