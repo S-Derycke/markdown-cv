@@ -42,7 +42,7 @@ Machine learning & AI engineering, Software development
 - Fullstack Web Development
 
 `2016 - 2017`
-**BookU** Fullstack Software Developer
+**BookU** Fullstack Software Developer Job Student
 
 - Fullstack Web Development
 
@@ -57,11 +57,6 @@ Machine learning & AI engineering, Software development
 **VIVES**
 
 - Professional Bachelor's degree - Applied Computer Science: Application Development and Gamification - _Magna Cum Laude_
-
-`2013 - 2014`
-**KU Leuven**
-
-- Academic Bachelor's degree - Computer Science
 
 **OLV Vlaanderen**
 
@@ -148,10 +143,6 @@ Java EE, Spring, Thymeleaf, Junit, Mockito, ...
 **JavaScript**
 
 Typescript, NextJs, NestJs, ...
-
-**Functional Programming**
-
-Prolog, Haskell
 
 **Databases**
 
