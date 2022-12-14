@@ -5,7 +5,7 @@ title: Siemen Derycke's CV
 
 # Siemen Derycke
 
-ML Engineer / Software Developer
+Software Engineer / ML Engineer
 
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/siemen-derycke/">linkedin/siemen-derycke</a>
@@ -13,7 +13,11 @@ ML Engineer / Software Developer
 
 ## Currently
 
-Working as a Data Science and AI Consultant at Arinti
+Working as Lead Software Engineer at JUUNOO
+
+## Looking for
+
+A role where technical problem solving and collaborative efforts are key
 
 ### Specialized in
 
@@ -21,7 +25,21 @@ Machine learning & AI engineering, Software development
 
 ## Experience
 
-`2021 - present`
+`2022 - present`
+**JUUNOO** Lead Software Engineer
+
+- Technical Lead in a scale-up environment
+  - Establishing a single source of truth database for scattered product specifications
+  - Laying the foundations for business digitalization and scalability
+- Technical lead on development of Client facing web interface for indicative quoting
+- Technical lead on development of Product Rules Engine to automate CAD drawing software 'Revit'
+- Technical lead on 2 Vlaio Machine Learning research projects
+  - Object Recognition Computer Vision model for detecting building obstruction
+  - Automated Floorplan Design model
+- Developed a Sales Tool (POC) to replace excel spreadsheets approach for customizing building kits and generating quotes
+  - Reducing time-to-quote and human errors
+
+`2021 - 2022`
 **Arinti** Data Scientist
 
 - Data Science / Machine Learning Consultancy
@@ -72,6 +90,10 @@ Machine learning & AI engineering, Software development
 
 ## Notable Projects
 
+**JUUNOO Voltage**
+
+Designed architecture and led development of cloud-based business digitalization solution.
+
 **Parcel Sorting Automation**
 
 Designed and setup Computer Vision solution (using Azure services) to automate the parcel sorting process for the Latvian postal service.
@@ -116,7 +138,7 @@ Constraint Processing, Search Algorithms, ...
 
 **Object-Oriented Programming**
 
-SOLID principles, Design Patterns, ...
+SOLID principles, Design Patterns, CLEAN architecture, ...
 
 **Domain Driven Design**
 
@@ -134,15 +156,19 @@ Unit Testing, Integration Testing, End-to-end Testing, ...
 
 **Python**
 
-Scikit, Tensorflow, Keras, NLTK, Pyspark, Flask, unittest, ...
+Scikit, Tensorflow, Keras, NLTK, Pyspark, Flask, unittest
 
 **Java**
 
-Java EE, Spring, Thymeleaf, Junit, Mockito, ...
+Java EE, Spring, Thymeleaf, Junit, Mockito
+
+**C#**
+
+.Net, EntityFramework, MediatR, XUnit
 
 **JavaScript**
 
-Typescript, NextJs, NestJs, ...
+Typescript, NextJs, NestJs, Angular
 
 **Databases**
 
@@ -150,7 +176,7 @@ SQL, PSQL, MySQL, Postgres, DeltaLake
 
 **Deployment**
 
-Docker, Kubernetes, Jenkins
+TerraForm, Docker, Kubernetes
 
 **Cloud**
 
