@@ -8,8 +8,7 @@ title: Siemen Derycke's CV
 Software Engineer / ML Engineer
 
 <div id="webaddress">
-<a href="siemen.derycke@gmail.com">siemen.derycke@gmail.com</a>
-</br>
+<a href="siemen.derycke@gmail.com">siemen.derycke@gmail.com</a> | 
 <a href="https://www.linkedin.com/in/siemen-derycke/">linkedin/siemen-derycke</a>
 </div>
 
