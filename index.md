@@ -11,11 +11,13 @@ Software Engineer / ML Engineer
 <a href="siemen.derycke@gmail.com">siemen.derycke@gmail.com</a>
 <br>
 <a href="https://www.linkedin.com/in/siemen-derycke/">linkedin/siemen-derycke</a>
+<br>
+<a href="tel:+32497047448">+32 497 04 74 478</a>
 </div>
 
 ## Currently
 
-Working as Lead Software Engineer at JUUNOO
+Freelance Software Engineer
 
 ## Looking for
 
@@ -27,7 +29,28 @@ Machine learning & AI engineering, Software development
 
 ## Experience
 
-`2022 - present`
+`2023 - present`
+**MobilityPlus (via ACA Group)** Freelance Software Engineer (part-time)
+
+- Lead Backend Developer
+  - Designing and implementing backend architecture for a centralized MobilityPlus platform api
+  - Integrating with external services (e.g. Odoo, Optimile, Azure IoT Hub, Redis, ...)
+  - Role and permission based access control
+  - Provisioning and configuring Azure resources
+  - Implementing CI/CD pipelines
+- Supporting junior developers
+  - Participating in code reviews
+  - Providing technical guidance
+
+`2023 - present`
+**UZ Leuven (via ACA Group)** Freelance Software Engineer (part-time)
+
+- Liferay solution engineer
+  - Designing and implementing custom liferay components and services
+  - Integrating with external services
+  - Participating in code reviews
+
+`2022 - 2023`
 **JUUNOO** Lead Software Engineer
 
 - Technical Lead in a scale-up environment
