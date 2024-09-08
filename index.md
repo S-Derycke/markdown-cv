@@ -5,8 +5,6 @@ title: Siemen Derycke's CV
 
 # Siemen Derycke
 
-Software Engineer / ML Engineer
-
 <div id="webaddress">
 <a href="siemen.derycke@gmail.com">siemen.derycke@gmail.com</a>
 <br>
@@ -15,21 +13,35 @@ Software Engineer / ML Engineer
 <a href="tel:+32497047448">+32 497 04 74 478</a>
 </div>
 
-## Currently
+## Freelance Software Engineer
 
-Freelance Software Engineer
+I am a freelance software engineer with a strong background in backend developement, data science and machine learning. I have experience in designing and implementing software solutions for a variety of industries, including healthcare, construction and electric vehicle charging systems.
 
-## Looking for
+I am passionate about using technology to solve complex problems and optimising or automating business flows, with a focus on quality and maintainability. I am a team player and enjoy working in a collaborative environment, but I am also comfortable working independently and taking ownership of projects.
 
-A role where technical problem solving and collaborative efforts are key
+I pride myself in my ability to quickly understand complex systems and find creative solutions to challenging problems.
 
-### Specialized in
-
-Machine learning & AI engineering, Software development
+I am a fast learner and enjoy working on a variety of projects and tech-stacks and I am always looking for new opportunities to grow and expand my skill set.
 
 ## Experience
 
-`2023 - present`
+`2024 - present`
+**Mijn Onderwijs (via ACA Group)** Freelance Software Engineer (part-time)
+
+- Liferay solution engineer
+  - Designing and implementing custom liferay components and services
+  - Integrating with external services
+  - Participating in code reviews
+
+`2024 - present`
+**Tennis Vlaanderen (via ACA Group)** Freelance Software Engineer (part-time)
+
+- Liferay solution engineer
+  - Designing and implementing custom liferay components and services
+  - Integrating with external services
+  - Participating in code reviews
+
+`2023 - 2024`
 **MobilityPlus (via ACA Group)** Freelance Software Engineer (part-time)
 
 - Lead Backend Developer
@@ -42,7 +54,7 @@ Machine learning & AI engineering, Software development
   - Participating in code reviews
   - Providing technical guidance
 
-`2023 - present`
+`2023 - 2024`
 **UZ Leuven (via ACA Group)** Freelance Software Engineer (part-time)
 
 - Liferay solution engineer
@@ -115,6 +127,10 @@ Machine learning & AI engineering, Software development
 
 ## Notable Projects
 
+**MobilityPlus Api**
+
+Designed and implemented backend architecture for a centralized MobilityPlus platform api. The api integrates with external services (e.g. Odoo, Optimile, Azure IoT Hub, Redis, ...) and provides role and permission based access control.
+
 **JUUNOO Voltage**
 
 Designed architecture and led development of cloud-based business digitalization solution.
@@ -145,20 +161,6 @@ This project was in collaboration with the research group of declarative languag
 
 ## Skills and Knowledge
 
-### Data Science
-
-**Machine Learning**
-
-Random Forest, XGBoost, KNN, Ridge Regression, ...
-
-**Deep Learning**
-
-Feed-forward NN, Convolutional NN, GAN, ...
-
-**Classical AI**
-
-Constraint Processing, Search Algorithms, ...
-
 ### Software Development
 
 **Object-Oriented Programming**
@@ -177,19 +179,37 @@ Unit Testing, Integration Testing, End-to-end Testing, ...
 
 **CI/CD**
 
+### Data Science
+
+**Machine Learning**
+
+Random Forest, XGBoost, KNN, Ridge Regression, ...
+
+**Deep Learning**
+
+Feed-forward NN, Convolutional NN, GAN, ...
+
+**Classical AI**
+
+Constraint Processing, Search Algorithms, ...
+
 ## Tools and Technologies
 
-**Python**
+**Python** +- 3 years experience, focus on data science, data engineering and some backend development
 
-Scikit, Tensorflow, Keras, NLTK, Pyspark, Flask, unittest
+Scikit, Tensorflow, Keras, Django, NLTK, Pyspark, Flask, unittest
 
-**Java**
+**Java** +- 4 years experience, focus on backend development
 
 Java EE, Spring, Thymeleaf, Junit, Mockito
 
-**C#**
+**C#** +- 3 years experience, focus on backend development
 
 .Net, EntityFramework, MediatR, XUnit
+
+**GO** +- 0,5 year experience
+
+Chi router, SQLX, Templ + HTMX
 
 **JavaScript**
 
