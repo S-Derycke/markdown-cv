@@ -32,6 +32,9 @@ I am a fast learner and enjoy working on a variety of projects and tech-stacks a
   - Designing and implementing custom liferay components and services
   - Integrating with external services
   - Participating in code reviews
+- Tech
+  - Liferay, Java, Spring, Docker, PostgresDB
+  - Ad-hoc Data analysis and reporting using Python, Pandas
 
 `2024 - present`
 **Tennis Vlaanderen (via ACA Group)** Freelance Software Engineer (part-time)
@@ -40,6 +43,8 @@ I am a fast learner and enjoy working on a variety of projects and tech-stacks a
   - Designing and implementing custom liferay components and services
   - Integrating with external services
   - Participating in code reviews
+- Tech
+  - Liferay, Java, Spring, Docker, OracleDB
 
 `2023 - 2024`
 **MobilityPlus (via ACA Group)** Freelance Software Engineer (part-time)
@@ -53,6 +58,9 @@ I am a fast learner and enjoy working on a variety of projects and tech-stacks a
 - Supporting junior developers
   - Participating in code reviews
   - Providing technical guidance
+- Tech
+  - C#, .Net Core, EntityFramework, Azure, Docker, PostgresDB
+  - Ad-hoc Data analysis and reporting using Python, Pandas
 
 `2023 - 2024`
 **UZ Leuven (via ACA Group)** Freelance Software Engineer (part-time)
@@ -61,6 +69,8 @@ I am a fast learner and enjoy working on a variety of projects and tech-stacks a
   - Designing and implementing custom liferay components and services
   - Integrating with external services
   - Participating in code reviews
+- Tech
+  - Liferay, Java, Spring, Docker, OracleDB
 
 `2022 - 2023`
 **JUUNOO** Lead Software Engineer
@@ -75,6 +85,9 @@ I am a fast learner and enjoy working on a variety of projects and tech-stacks a
   - Automated Floorplan Design model
 - Developed a Sales Tool (POC) to replace excel spreadsheets approach for customizing building kits and generating quotes
   - Reducing time-to-quote and human errors
+- Tech
+  - C#, .Net Core, EntityFramework, MediatR, XUnit, Azure, Docker, PostgresDB
+  - Python, Pandas, Scikit, Tensorflow, Keras, Flask
 
 `2021 - 2022`
 **Arinti** Data Scientist
@@ -82,6 +95,9 @@ I am a fast learner and enjoy working on a variety of projects and tech-stacks a
 - Data Science / Machine Learning Consultancy
 - Independent Project Planning / Problem Solving
 - Internal Project Scrum Master
+- Tech
+  - Python, Pandas, Scikit, Tensorflow, Keras, Django, NLTK, Pyspark
+  - Azure, Databricks, Kafka(Azure Eventhubs)
 
 `2019 - 2021`
 **jstack** Machine Learning Engineer / Backend Developer
@@ -90,6 +106,10 @@ I am a fast learner and enjoy working on a variety of projects and tech-stacks a
 - Distributed Systems / Microservice Development Consultancy
 - Machine Learning Consultancy
 - Project Planning
+- Tech
+  - Java, Spring, Thymeleaf, Junit, Mockito
+  - Typescript, NextJs, NestJs, Angular
+  - Python, Pandas, Scikit, Tensorflow, Keras, Django, NLTK, Pyspark
 
 `2017`
 **PegusApps** Fullstack Software Developer Job Student + Intern
@@ -134,6 +154,12 @@ Designed and implemented backend architecture for a centralized MobilityPlus pla
 **JUUNOO Voltage**
 
 Designed architecture and led development of cloud-based business digitalization solution.
+
+**Ripe**
+
+Expanded upon a production line scheduling system in Python Django to reduce cleaning time and increase production capacity by better planning for allergens on the line.
+Used ant colony optimization to find optimal schedules.
+Developed a web interface dashboard to visualize and interact with the schedules and integrated with production orders in external DB.
 
 **Parcel Sorting Automation**
 
@@ -195,7 +221,7 @@ Constraint Processing, Search Algorithms, ...
 
 ## Tools and Technologies
 
-**Python** +- 3 years experience, focus on data science, data engineering and some backend development
+**Python** +- 3 years experience, focus on data science, data engineering and backend development
 
 Scikit, Tensorflow, Keras, Django, NLTK, Pyspark, Flask, unittest
 
